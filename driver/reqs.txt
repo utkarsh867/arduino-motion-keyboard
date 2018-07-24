@@ -1,0 +1,5 @@
+keyboard==0.13.2
+pip==18.0
+pyserial==3.4
+setuptools==40.0.0
+wheel==0.31.1
