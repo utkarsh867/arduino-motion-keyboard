@@ -5,5 +5,4 @@ An Arduino + GY521 + Python mini-project for emulating keystrokes using motion.
 The main motivation of the project is for developing motion-controlled gaming peripherals.
 
 ## Wiring Schematics
-
-To be added
+View the schematics [here](schematics.pdf)
